@@ -1,166 +1,166 @@
-#EXTINF:-1 tvg-id="" tvg-name="BBC One" tvg-logo="BBC_One.png" group-title="General/UK",[UK] BBC One
+#EXTINF:-1 tvg-id="" tvg-name="BBC One" tvg-logo="BBC_One.png" group-title="General UK",[UK] BBC One
 http://ndasat.pro:8000/live/76879463485834/1593574628/488.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC Two" tvg-logo="BBC_Two.png" group-title="General/UK",[UK] BBC Two
+#EXTINF:-1 tvg-id="" tvg-name="BBC Two" tvg-logo="BBC_Two.png" group-title="General UK",[UK] BBC Two
 http://ndasat.pro:8000/live/76879463485834/1593574628/489.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC Three" tvg-logo="BBC_Three.png" group-title="General/UK",[UK] BBC Three
+#EXTINF:-1 tvg-id="" tvg-name="BBC Three" tvg-logo="BBC_Three.png" group-title="General UK",[UK] BBC Three
 http://ndasat.pro:8000/live/76879463485834/1593574628/2671.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC Four" tvg-logo="BBC_Four.png" group-title="General/UK",[UK] BBC Four
+#EXTINF:-1 tvg-id="" tvg-name="BBC Four" tvg-logo="BBC_Four.png" group-title="General UK",[UK] BBC Four
 http://ndasat.pro:8000/live/76879463485834/1593574628/491.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ITV1" tvg-logo="ITV1.png" group-title="General/UK",[UK] ITV1
+#EXTINF:-1 tvg-id="" tvg-name="ITV1" tvg-logo="ITV1.png" group-title="General UK",[UK] ITV1
 http://ndasat.pro:8000/live/76879463485834/1593574628/492.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ITV2" tvg-logo="ITV2.png" group-title="General/UK",[UK] ITV2
+#EXTINF:-1 tvg-id="" tvg-name="ITV2" tvg-logo="ITV2.png" group-title="General UK",[UK] ITV2
 http://ndasat.pro:8000/live/76879463485834/1593574628/493.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ITV3" tvg-logo="ITV3.png" group-title="General/UK",[UK] ITV3
+#EXTINF:-1 tvg-id="" tvg-name="ITV3" tvg-logo="ITV3.png" group-title="General UK",[UK] ITV3
 http://ndasat.pro:8000/live/76879463485834/1593574628/494.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ITV4" tvg-logo="ITV4.png" group-title="General/UK",[UK] ITV4
+#EXTINF:-1 tvg-id="" tvg-name="ITV4" tvg-logo="ITV4.png" group-title="General UK",[UK] ITV4
 http://ndasat.pro:8000/live/76879463485834/1593574628/495.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ITVBe" tvg-logo="ITVBe.png" group-title="General/UK",[UK] ITVBe
+#EXTINF:-1 tvg-id="" tvg-name="ITVBe" tvg-logo="ITVBe.png" group-title="General UK",[UK] ITVBe
 http://ndasat.pro:8000/live/76879463485834/1593574628/496.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ZDF" tvg-logo="ZDF.png" group-title="General/DE",[DE] ZDF
+#EXTINF:-1 tvg-id="" tvg-name="ZDF" tvg-logo="ZDF.png" group-title="General DE",[DE] ZDF
 http://ndasat.pro:8000/live/76879463485834/1593574628/534.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="RTL.png" group-title="General/DE",[DE] RTL
+#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="RTL.png" group-title="General DE",[DE] RTL
 http://ndasat.pro:8000/live/76879463485834/1593574628/555.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SAT1" tvg-logo="SAT1.png" group-title="General/DE",[DE] SAT1
+#EXTINF:-1 tvg-id="" tvg-name="SAT1" tvg-logo="SAT1.png" group-title="General DE",[DE] SAT1
 http://ndasat.pro:8000/live/76879463485834/1593574628/554.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ProSieben" tvg-logo="ProSieben.png" group-title="General/DE",[DE] ProSieben
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben" tvg-logo="ProSieben.png" group-title="General DE",[DE] ProSieben
 http://ndasat.pro:8000/live/76879463485834/1593574628/456.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="kabel eins" tvg-logo="kabel_eins.png" group-title="General/DE",[DE] kabel eins
+#EXTINF:-1 tvg-id="" tvg-name="kabel eins" tvg-logo="kabel_eins.png" group-title="General DE",[DE] kabel eins
 http://ndasat.pro:8000/live/76879463485834/1593574628/564.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="VOX" tvg-logo="VOX.png" group-title="General/DE",[DE] VOX
+#EXTINF:-1 tvg-id="" tvg-name="VOX" tvg-logo="VOX.png" group-title="General DE",[DE] VOX
 http://ndasat.pro:8000/live/76879463485834/1593574628/483.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="3sat" tvg-logo="3sat.png" group-title="General/DE",[DE] 3sat
+#EXTINF:-1 tvg-id="" tvg-name="3sat" tvg-logo="3sat.png" group-title="General DE",[DE] 3sat
 http://ndasat.pro:8000/live/76879463485834/1593574628/569.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Dmax" tvg-logo="Dmax.png" group-title="General/DE",[DE] Dmax
+#EXTINF:-1 tvg-id="" tvg-name="Dmax" tvg-logo="Dmax.png" group-title="General DE",[DE] Dmax
 http://ndasat.pro:8000/live/76879463485834/1593574628/567.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NDR" tvg-logo="NDR.png" group-title="General/DE",[DE] NDR
+#EXTINF:-1 tvg-id="" tvg-name="NDR" tvg-logo="NDR.png" group-title="General DE",[DE] NDR
 http://ndasat.pro:8000/live/76879463485834/1593574628/560.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="HR" tvg-logo="HR.png" group-title="General/DE",[DE] HR
+#EXTINF:-1 tvg-id="" tvg-name="HR" tvg-logo="HR.png" group-title="General DE",[DE] HR
 http://ndasat.pro:8000/live/76879463485834/1593574628/574.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Super RTL" tvg-logo="Super_RTL.png" group-title="General/DE",[DE] Super RTL
+#EXTINF:-1 tvg-id="" tvg-name="Super RTL" tvg-logo="Super_RTL.png" group-title="General DE",[DE] Super RTL
 http://ndasat.pro:8000/live/76879463485834/1593574628/536.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Sixx" tvg-logo="Sixx.png" group-title="General/DE",[DE] Sixx
+#EXTINF:-1 tvg-id="" tvg-name="Sixx" tvg-logo="Sixx.png" group-title="General DE",[DE] Sixx
 http://ndasat.pro:8000/live/76879463485834/1593574628/462.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="RTS Un" tvg-logo="RTS_Un.png" group-title="General/CH",[CH] RTS Un
+#EXTINF:-1 tvg-id="" tvg-name="RTS Un" tvg-logo="RTS_Un.png" group-title="General CH",[CH] RTS Un
 http://ndasat.pro:8000/live/76879463485834/1593574628/2292.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="RTS_Deux.png" group-title="General/CH",[CH] RTS Deux
+#EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="RTS_Deux.png" group-title="General CH",[CH] RTS Deux
 http://ndasat.pro:8000/live/76879463485834/1593574628/2293.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="La Tele" tvg-logo="La_Tele.png" group-title="General/CH",[CH] La Télé
+#EXTINF:-1 tvg-id="" tvg-name="La Tele" tvg-logo="La_Tele.png" group-title="General CH",[CH] La Télé
 http://ndasat.pro:8000/live/76879463485834/1593574628/1717.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SRF 1" tvg-logo="SRF_1.png" group-title="General/CH",[CH:DE] SRF 1
+#EXTINF:-1 tvg-id="" tvg-name="SRF 1" tvg-logo="SRF_1.png" group-title="General CH",[CH:DE] SRF 1
 http://ndasat.pro:8000/live/76879463485834/1593574628/2289.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SRF 2" tvg-logo="SRF_2.png" group-title="General/CH",[CH:DE] SRF 2
+#EXTINF:-1 tvg-id="" tvg-name="SRF 2" tvg-logo="SRF_2.png" group-title="General CH",[CH:DE] SRF 2
 http://ndasat.pro:8000/live/76879463485834/1593574628/2290.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="La Une" tvg-logo="La_Une.png" group-title="General/BE",[BE] La Une
+#EXTINF:-1 tvg-id="" tvg-name="La Une" tvg-logo="La_Une.png" group-title="General BE",[BE] La Une
 http://ndasat.pro:8000/live/76879463485834/1593574628/750.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="La Deux" tvg-logo="La_Deux.png" group-title="General/BE",[BE] La Deux
+#EXTINF:-1 tvg-id="" tvg-name="La Deux" tvg-logo="La_Deux.png" group-title="General BE",[BE] La Deux
 http://ndasat.pro:8000/live/76879463485834/1593574628/751.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="La Trois" tvg-logo="La_Trois.png" group-title="General/BE",[BE] La Trois
+#EXTINF:-1 tvg-id="" tvg-name="La Trois" tvg-logo="La_Trois.png" group-title="General BE",[BE] La Trois
 http://ndasat.pro:8000/live/76879463485834/1593574628/752.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="RTL TVI" tvg-logo="RTL_TVI.png" group-title="General/BE",[BE] RTL TVI
+#EXTINF:-1 tvg-id="" tvg-name="RTL TVI" tvg-logo="RTL_TVI.png" group-title="General BE",[BE] RTL TVI
 http://ndasat.pro:8000/live/76879463485834/1593574628/753.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Club RTL" tvg-logo="Club_RTL.png" group-title="General/BE",[BE] Club RTL
+#EXTINF:-1 tvg-id="" tvg-name="Club RTL" tvg-logo="Club_RTL.png" group-title="General BE",[BE] Club RTL
 http://ndasat.pro:8000/live/76879463485834/1593574628/755.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Plug RTL" tvg-logo="Plug_RTL.png" group-title="General/BE",[BE] Plug RTL
+#EXTINF:-1 tvg-id="" tvg-name="Plug RTL" tvg-logo="Plug_RTL.png" group-title="General BE",[BE] Plug RTL
 http://ndasat.pro:8000/live/76879463485834/1593574628/754.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="TF1.png" group-title="General/FR",[FR] TF1
+#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="TF1.png" group-title="General FR",[FR] TF1
 http://ndasat.pro:8000/live/76879463485834/1593574628/94.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="France_2.png" group-title="General/FR",[FR] France 2
+#EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="France_2.png" group-title="General FR",[FR] France 2
 http://ndasat.pro:8000/live/76879463485834/1593574628/139.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="France_3.png" group-title="General/FR",[FR] France 3
+#EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="France_3.png" group-title="General FR",[FR] France 3
 http://ndasat.pro:8000/live/76879463485834/1593574628/137.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="France_4.png" group-title="General/FR",[FR] France 4
+#EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="France_4.png" group-title="General FR",[FR] France 4
 http://ndasat.pro:8000/live/76879463485834/1593574628/136.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="France_5.png" group-title="General/FR",[FR] France 5
+#EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="France_5.png" group-title="General FR",[FR] France 5
 http://ndasat.pro:8000/live/76879463485834/1593574628/113.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="France O" tvg-logo="France_O.png" group-title="General/FR",[FR] France Ô
+#EXTINF:-1 tvg-id="" tvg-name="France O" tvg-logo="France_O.png" group-title="General FR",[FR] France Ô
 http://ndasat.pro:8000/live/76879463485834/1593574628/140.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="Arte.png" group-title="General/FR",[FR] Arte
+#EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="Arte.png" group-title="General FR",[FR] Arte
 http://ndasat.pro:8000/live/76879463485834/1593574628/145.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="M6.png" group-title="General/FR",[FR] M6
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="M6.png" group-title="General FR",[FR] M6
 http://ndasat.pro:8000/live/76879463485834/1593574628/378.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="6Ter" tvg-logo="6Ter.png" group-title="General/FR",[FR] 6Ter
+#EXTINF:-1 tvg-id="" tvg-name="6Ter" tvg-logo="6Ter.png" group-title="General FR",[FR] 6Ter
 http://ndasat.pro:8000/live/76879463485834/1593574628/151.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="W9.png" group-title="General/FR",[FR] W9
+#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="W9.png" group-title="General FR",[FR] W9
 http://ndasat.pro:8000/live/76879463485834/1593574628/91.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="TMC.png" group-title="General/FR",[FR] TMC
+#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="TMC.png" group-title="General FR",[FR] TMC
 http://ndasat.pro:8000/live/76879463485834/1593574628/93.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NT1" tvg-logo="NT1.png" group-title="General/FR",[FR] NT1
+#EXTINF:-1 tvg-id="" tvg-name="NT1" tvg-logo="NT1.png" group-title="General FR",[FR] NT1
 http://ndasat.pro:8000/live/76879463485834/1593574628/127.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="HD1" tvg-logo="HD1.png" group-title="General/FR",[FR] HD1
+#EXTINF:-1 tvg-id="" tvg-name="HD1" tvg-logo="HD1.png" group-title="General FR",[FR] HD1
 http://ndasat.pro:8000/live/76879463485834/1593574628/134.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="C8.png" group-title="General/FR",[FR] C8
+#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="C8.png" group-title="General FR",[FR] C8
 http://ndasat.pro:8000/live/76879463485834/1593574628/171.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CStar" tvg-logo="CStar.png" group-title="General/FR",[FR] CStar
+#EXTINF:-1 tvg-id="" tvg-name="CStar" tvg-logo="CStar.png" group-title="General FR",[FR] CStar
 http://ndasat.pro:8000/live/76879463485834/1593574628/157.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Cherie 25" tvg-logo="Cherie_25.png" group-title="General/FR",[FR] Chérie 25
+#EXTINF:-1 tvg-id="" tvg-name="Cherie 25" tvg-logo="Cherie_25.png" group-title="General FR",[FR] Chérie 25
 http://ndasat.pro:8000/live/76879463485834/1593574628/164.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NRJ12" tvg-logo="NRJ12.png" group-title="General/FR",[FR] NRJ12
+#EXTINF:-1 tvg-id="" tvg-name="NRJ12" tvg-logo="NRJ12.png" group-title="General FR",[FR] NRJ12
 http://ndasat.pro:8000/live/76879463485834/1593574628/1647.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Numero 23" tvg-logo="Numero_23.png" group-title="General/FR",[FR] Numéro 23
+#EXTINF:-1 tvg-id="" tvg-name="Numero 23" tvg-logo="Numero_23.png" group-title="General FR",[FR] Numéro 23
 http://ndasat.pro:8000/live/76879463485834/1593574628/2282.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="RTL9" tvg-logo="RTL9.png" group-title="General/FR",[FR] RTL9
+#EXTINF:-1 tvg-id="" tvg-name="RTL9" tvg-logo="RTL9.png" group-title="General FR",[FR] RTL9
 http://ndasat.pro:8000/live/76879463485834/1593574628/2343.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Paris Premiere" tvg-logo="Paris_Premiere.png" group-title="General/FR",[FR] Paris Première
+#EXTINF:-1 tvg-id="" tvg-name="Paris Premiere" tvg-logo="Paris_Premiere.png" group-title="General FR",[FR] Paris Première
 http://ndasat.pro:8000/live/76879463485834/1593574628/125.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Teva" tvg-logo="Teva.png" group-title="General/FR",[FR] Téva
+#EXTINF:-1 tvg-id="" tvg-name="Teva" tvg-logo="Teva.png" group-title="General FR",[FR] Téva
 http://ndasat.pro:8000/live/76879463485834/1593574628/1644.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="Canalp.png" group-title="General/FR",[FR] Canal+
+#EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="Canalp.png" group-title="General FR",[FR] Canal+
 http://ndasat.pro:8000/live/76879463485834/1593574628/170.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde" tvg-logo="TV5_Monde.png" group-title="General/FR",[FR] TV5 Monde
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde" tvg-logo="TV5_Monde.png" group-title="General FR",[FR] TV5 Monde
 http://ndasat.pro:8000/live/76879463485834/1593574628/2285.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Nasa TV Public" tvg-logo="Nasa_TV_Public.png" group-title="Docs",[US] Nasa TV Public
@@ -280,124 +280,124 @@ http://live.bltvios.com.edgesuite.net/btvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="CNN.png" group-title="News",[US] CNN
 rtmp://iptv.livetv.tn/live/ch5059%3Fcode%3D262dc2de03cc75f
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine POLAR" tvg-logo="Cine_POLAR.png" group-title="Cinéma/Séries",[FR] Ciné POLAR
+#EXTINF:-1 tvg-id="" tvg-name="Cine POLAR" tvg-logo="Cine_POLAR.png" group-title="Cinéma Séries",[FR] Ciné POLAR
 http://ndasat.pro:8000/live/76879463485834/1593574628/160.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine FX" tvg-logo="Cine_FX.png" group-title="Cinéma/Séries",[FR] Ciné FX
+#EXTINF:-1 tvg-id="" tvg-name="Cine FX" tvg-logo="Cine_FX.png" group-title="Cinéma Séries",[FR] Ciné FX
 http://ndasat.pro:8000/live/76879463485834/1593574628/1617.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ACTION" tvg-logo="ACTION.png" group-title="Cinéma/Séries",[FR] ACTION
+#EXTINF:-1 tvg-id="" tvg-name="ACTION" tvg-logo="ACTION.png" group-title="Cinéma Séries",[FR] ACTION
 http://ndasat.pro:8000/live/76879463485834/1593574628/150.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="13eme Rue" tvg-logo="13eme_Rue.png" group-title="Cinéma/Séries",[FR] 13ème Rue
+#EXTINF:-1 tvg-id="" tvg-name="13eme Rue" tvg-logo="13eme_Rue.png" group-title="Cinéma Séries",[FR] 13ème Rue
 http://ndasat.pro:8000/live/76879463485834/1593574628/152.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="SyFy.png" group-title="Cinéma/Séries",[FR] SyFy
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="SyFy.png" group-title="Cinéma Séries",[FR] SyFy
 http://ndasat.pro:8000/live/76879463485834/1593574628/95.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="AB1.png" group-title="Cinéma/Séries",[FR] AB1
+#EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="AB1.png" group-title="Cinéma Séries",[FR] AB1
 http://ndasat.pro:8000/live/76879463485834/1593574628/2345.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="AB3" tvg-logo="AB3.png" group-title="Cinéma/Séries",[BE] AB3
+#EXTINF:-1 tvg-id="" tvg-name="AB3" tvg-logo="AB3.png" group-title="Cinéma Séries",[BE] AB3
 http://ndasat.pro:8000/live/76879463485834/1593574628/2346.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Serie Club" tvg-logo="Serie_Club.png" group-title="Cinéma/Séries",[FR] Série Club
+#EXTINF:-1 tvg-id="" tvg-name="Serie Club" tvg-logo="Serie_Club.png" group-title="Cinéma Séries",[FR] Série Club
 http://ndasat.pro:8000/live/76879463485834/1593574628/1648.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Crime District" tvg-logo="Crime_District.png" group-title="Cinéma/Séries",[FR] Crime District
+#EXTINF:-1 tvg-id="" tvg-name="Crime District" tvg-logo="Crime_District.png" group-title="Cinéma Séries",[FR] Crime District
 http://ndasat.pro:8000/live/76879463485834/1593574628/3540.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="TCM.png" group-title="Cinéma/Séries",[FR] TCM
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="TCM.png" group-title="Cinéma Séries",[FR] TCM
 http://ndasat.pro:8000/live/76879463485834/1593574628/1643.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="Paramount_Channel.png" group-title="Cinéma/Séries",[FR] Paramount Channel
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="Paramount_Channel.png" group-title="Cinéma Séries",[FR] Paramount Channel
 http://ndasat.pro:8000/live/76879463485834/1593574628/126.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="OCS Max" tvg-logo="OCS_Max.png" group-title="Cinéma/Séries",[FR] OCS Max
+#EXTINF:-1 tvg-id="" tvg-name="OCS Max" tvg-logo="OCS_Max.png" group-title="Cinéma Séries",[FR] OCS Max
 http://ndasat.pro:8000/live/76879463485834/1593574628/109.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="OCS Choc" tvg-logo="OCS_Choc.png" group-title="Cinéma/Séries",[FR] OCS Choc
+#EXTINF:-1 tvg-id="" tvg-name="OCS Choc" tvg-logo="OCS_Choc.png" group-title="Cinéma Séries",[FR] OCS Choc
 http://ndasat.pro:8000/live/76879463485834/1593574628/112.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="OCS City" tvg-logo="OCS_City.png" group-title="Cinéma/Séries",[FR] OCS City
+#EXTINF:-1 tvg-id="" tvg-name="OCS City" tvg-logo="OCS_City.png" group-title="Cinéma Séries",[FR] OCS City
 http://ndasat.pro:8000/live/76879463485834/1593574628/111.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="OCS Geants" tvg-logo="OCS_Geants.png" group-title="Cinéma/Séries",[FR] OCS Geants
+#EXTINF:-1 tvg-id="" tvg-name="OCS Geants" tvg-logo="OCS_Geants.png" group-title="Cinéma Séries",[FR] OCS Geants
 http://ndasat.pro:8000/live/76879463485834/1593574628/110.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinema" tvg-logo="Canalp_Cinema.png" group-title="Cinéma/Séries",[FR] Canal+ Cinéma
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinema" tvg-logo="Canalp_Cinema.png" group-title="Cinéma Séries",[FR] Canal+ Cinéma
 http://ndasat.pro:8000/live/76879463485834/1593574628/166.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Decale" tvg-logo="Canalp_Decale.png" group-title="Cinéma/Séries",[FR] Canal+ Décalé
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Decale" tvg-logo="Canalp_Decale.png" group-title="Cinéma Séries",[FR] Canal+ Décalé
 http://ndasat.pro:8000/live/76879463485834/1593574628/169.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Family" tvg-logo="Canalp_Family.png" group-title="Cinéma/Séries",[FR] Canal+ Family
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Family" tvg-logo="Canalp_Family.png" group-title="Cinéma Séries",[FR] Canal+ Family
 http://ndasat.pro:8000/live/76879463485834/1593574628/168.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Series" tvg-logo="Canalp_Series.png" group-title="Cinéma/Séries",[FR] Canal+ Séries
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Series" tvg-logo="Canalp_Series.png" group-title="Cinéma Séries",[FR] Canal+ Séries
 http://ndasat.pro:8000/live/76879463485834/1593574628/122.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Premier" tvg-logo="Cinep_Premier.png" group-title="Cinéma/Séries",[FR] Ciné+ Premier
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Premier" tvg-logo="Cinep_Premier.png" group-title="Cinéma Séries",[FR] Ciné+ Premier
 http://ndasat.pro:8000/live/76879463485834/1593574628/161.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Frisson" tvg-logo="Cinep_Frisson.png" group-title="Cinéma/Séries",[FR] Ciné+ Frisson
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Frisson" tvg-logo="Cinep_Frisson.png" group-title="Cinéma Séries",[FR] Ciné+ Frisson
 http://ndasat.pro:8000/live/76879463485834/1593574628/162.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Emotion" tvg-logo="Cinep_Emotion.png" group-title="Cinéma/Séries",[FR] Ciné+ Emotion
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Emotion" tvg-logo="Cinep_Emotion.png" group-title="Cinéma Séries",[FR] Ciné+ Emotion
 http://ndasat.pro:8000/live/76879463485834/1593574628/163.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Classic" tvg-logo="Cinep_Classic.png" group-title="Cinéma/Séries",[FR] Ciné+ Classic
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Classic" tvg-logo="Cinep_Classic.png" group-title="Cinéma Séries",[FR] Ciné+ Classic
 http://ndasat.pro:8000/live/76879463485834/1593574628/121.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Famiz" tvg-logo="Cinep_Famiz.png" group-title="Cinéma/Séries",[FR] Ciné+ Famiz
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Famiz" tvg-logo="Cinep_Famiz.png" group-title="Cinéma Séries",[FR] Ciné+ Famiz
 http://ndasat.pro:8000/live/76879463485834/1593574628/159.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinema 1" tvg-logo="Cinema_1.png" group-title="Cinéma/Séries",[BE] Cinéma 1
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 1" tvg-logo="Cinema_1.png" group-title="Cinéma Séries",[BE] Cinéma 1
 http://ndasat.pro:8000/live/76879463485834/1593574628/2813.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="RTL Passion" tvg-logo="RTL_Passion.png" group-title="Cinéma/Séries",[DE] RTL Passion
+#EXTINF:-1 tvg-id="" tvg-name="RTL Passion" tvg-logo="RTL_Passion.png" group-title="Cinéma Séries",[DE] RTL Passion
 http://ndasat.pro:8000/live/76879463485834/1593574628/556.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SyFy DE" tvg-logo="SyFy_DE.png" group-title="Cinéma/Séries",[DE] SyFy DE
+#EXTINF:-1 tvg-id="" tvg-name="SyFy DE" tvg-logo="SyFy_DE.png" group-title="Cinéma Séries",[DE] SyFy DE
 http://ndasat.pro:8000/live/76879463485834/1593574628/535.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY DE Atlantic" tvg-logo="SKY_DE_Atlantic.png" group-title="Cinéma/Séries",[DE] SKY DE Atlantic
+#EXTINF:-1 tvg-id="" tvg-name="SKY DE Atlantic" tvg-logo="SKY_DE_Atlantic.png" group-title="Cinéma Séries",[DE] SKY DE Atlantic
 http://ndasat.pro:8000/live/76879463485834/1593574628/543.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY DE Action" tvg-logo="SKY_DE_Action.png" group-title="Cinéma/Séries",[DE] SKY DE Action
+#EXTINF:-1 tvg-id="" tvg-name="SKY DE Action" tvg-logo="SKY_DE_Action.png" group-title="Cinéma Séries",[DE] SKY DE Action
 http://ndasat.pro:8000/live/76879463485834/1593574628/551.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY DE Cinema" tvg-logo="SKY_DE_Cinema.png" group-title="Cinéma/Séries",[DE] SKY DE Cinema
+#EXTINF:-1 tvg-id="" tvg-name="SKY DE Cinema" tvg-logo="SKY_DE_Cinema.png" group-title="Cinéma Séries",[DE] SKY DE Cinema
 http://ndasat.pro:8000/live/76879463485834/1593574628/546.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY DE Emotion" tvg-logo="SKY_DE_Emotion.png" group-title="Cinéma/Séries",[DE] SKY DE Emotion
+#EXTINF:-1 tvg-id="" tvg-name="SKY DE Emotion" tvg-logo="SKY_DE_Emotion.png" group-title="Cinéma Séries",[DE] SKY DE Emotion
 http://ndasat.pro:8000/live/76879463485834/1593574628/545.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Alibi" tvg-logo="Alibi.png" group-title="Cinéma/Séries",[UK] Alibi
+#EXTINF:-1 tvg-id="" tvg-name="Alibi" tvg-logo="Alibi.png" group-title="Cinéma Séries",[UK] Alibi
 http://ndasat.pro:8000/live/76879463485834/1593574628/519.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CBS UK Action" tvg-logo="CBS_UK_Action.png" group-title="Cinéma/Séries",[UK] CBS UK Action
+#EXTINF:-1 tvg-id="" tvg-name="CBS UK Action" tvg-logo="CBS_UK_Action.png" group-title="Cinéma Séries",[UK] CBS UK Action
 http://ndasat.pro:8000/live/76879463485834/1593574628/518.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="True Movies 1" tvg-logo="True_Movies_1.png" group-title="Cinéma/Séries",[UK] True Movies 1
+#EXTINF:-1 tvg-id="" tvg-name="True Movies 1" tvg-logo="True_Movies_1.png" group-title="Cinéma Séries",[UK] True Movies 1
 http://ndasat.pro:8000/live/76879463485834/1593574628/2510.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY UK Action" tvg-logo="SKY_UK_Action.png" group-title="Cinéma/Séries",[UK] SKY UK Action
+#EXTINF:-1 tvg-id="" tvg-name="SKY UK Action" tvg-logo="SKY_UK_Action.png" group-title="Cinéma Séries",[UK] SKY UK Action
 http://ndasat.pro:8000/live/76879463485834/1593574628/506.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY UK Atlantic" tvg-logo="SKY_UK_Atlantic.png" group-title="Cinéma/Séries",[UK] SKY UK Atlantic
+#EXTINF:-1 tvg-id="" tvg-name="SKY UK Atlantic" tvg-logo="SKY_UK_Atlantic.png" group-title="Cinéma Séries",[UK] SKY UK Atlantic
 http://ndasat.pro:8000/live/76879463485834/1593574628/505.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY UK Comedy" tvg-logo="SKY_UK_Comedy.png" group-title="Cinéma/Séries",[UK] SKY UK Comedy
+#EXTINF:-1 tvg-id="" tvg-name="SKY UK Comedy" tvg-logo="SKY_UK_Comedy.png" group-title="Cinéma Séries",[UK] SKY UK Comedy
 http://ndasat.pro:8000/live/76879463485834/1593574628/504.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY UK Living" tvg-logo="SKY_UK_Living.png" group-title="Cinéma/Séries",[UK] SKY UK Living
+#EXTINF:-1 tvg-id="" tvg-name="SKY UK Living" tvg-logo="SKY_UK_Living.png" group-title="Cinéma Séries",[UK] SKY UK Living
 http://ndasat.pro:8000/live/76879463485834/1593574628/502.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY UK Thriller" tvg-logo="SKY_UK_Thriller.png" group-title="Cinéma/Séries",[UK] SKY UK Thriller
+#EXTINF:-1 tvg-id="" tvg-name="SKY UK Thriller" tvg-logo="SKY_UK_Thriller.png" group-title="Cinéma Séries",[UK] SKY UK Thriller
 http://ndasat.pro:8000/live/76879463485834/1593574628/501.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY Movies Modern" tvg-logo="SKY_Movies_Modern.png" group-title="Cinéma/Séries",[UK] SKY Movies Modern
+#EXTINF:-1 tvg-id="" tvg-name="SKY Movies Modern" tvg-logo="SKY_Movies_Modern.png" group-title="Cinéma Séries",[UK] SKY Movies Modern
 http://ndasat.pro:8000/live/76879463485834/1593574628/2520.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Mute TV HD" tvg-logo="Mute_TV_HD.png" group-title="Divers",[--] Mute TV HD

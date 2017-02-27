@@ -359,7 +359,7 @@ http://ndasat.pro:8000/live/76879463485834/1593574628/556.ts
 #EXTINF:-1 tvg-id="75/syfy:klack.de" tvg-name="SyFy DE" tvg-logo="SyFy_DE.png" group-title="Cinéma/Séries",[DE] SyFy DE
 http://ndasat.pro:8000/live/76879463485834/1593574628/535.ts
 
-#EXTINF:-1 tvg-id="SKYAT:m.tvtoday.de" tvg-name="SKY DE Movie" tvg-logo="SKY_DE_Movie.png" group-title="Cinéma/Séries",[DE] SKY DE Movie
+#EXTINF:-1 tvg-id="SKYAT:m.tvtoday.de" tvg-name="SKY DE Atlantic" tvg-logo="SKY_DE_Atlantic.png" group-title="Cinéma/Séries",[DE] SKY DE Atlantic
 http://ndasat.pro:8000/live/76879463485834/1593574628/541.ts
 
 #EXTINF:-1 tvg-id="SKY-A:m.tvtoday.de" tvg-name="SKY DE Action" tvg-logo="SKY_DE_Action.png" group-title="Cinéma/Séries",[DE] SKY DE Action

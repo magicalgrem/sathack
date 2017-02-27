@@ -53,9 +53,6 @@ http://ndasat.pro:8000/live/76879463485834/1593574628/567.ts
 #EXTINF:-1 tvg-id="N3:m.tvtoday.de" tvg-name="NDR" tvg-logo="NDR.png" group-title="General/DE",[DE] NDR
 http://ndasat.pro:8000/live/76879463485834/1593574628/560.ts
 
-#EXTINF:-1 tvg-id="49/hr:klack.de" tvg-name="HR" tvg-logo="HR.png" group-title="General/DE",[DE] HR
-http://ndasat.pro:8000/live/76879463485834/1593574628/574.ts
-
 #EXTINF:-1 tvg-id="SUPER:tvtoday.de" tvg-name="Super RTL" tvg-logo="Super_RTL.png" group-title="General/DE",[DE] Super RTL
 http://ndasat.pro:8000/live/76879463485834/1593574628/536.ts
 
@@ -419,9 +416,6 @@ http://ndasat.pro:8000/live/76879463485834/1593574628/158.ts
 #EXTINF:-1 tvg-id="" tvg-name="Enorme TV" tvg-logo="Enorme_TV.png" group-title="Divers",[FR] Enorme TV
 http://ndasat.pro:8000/live/76879463485834/1593574628/2348.ts
 
-#EXTINF:-1 tvg-id="184:telerama.fr" tvg-name="M6 Boutique" tvg-logo="M6_Boutique.png" group-title="Divers",[FR] M6 Boutique
-http://ndasat.pro:8000/live/76879463485834/1593574628/2937.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="Zouzous" tvg-logo="Zouzous.png" group-title="Kids",[FR] Zouzous
 http://ndasat.pro:8000/live/76879463485834/1593574628/1195.ts
 
@@ -502,9 +496,6 @@ http://ndasat.pro:8000/live/76879463485834/1593574628/92.ts
 
 #EXTINF:-1 tvg-id="weo:weo.fr" tvg-name="Weo" tvg-logo="Weo.png" group-title="Locales",[FR] Wéo
 http://ndasat.pro:8000/live/76879463485834/1593574628/1716.ts
-
-#EXTINF:-1 tvg-id="449:telerama.fr" tvg-name="Telesud" tvg-logo="Telesud.png" group-title="Locales",[FR] Télésud
-http://ndasat.pro:8000/live/76879463485834/1593574628/2846.ts
 
 #EXTINF:-1 tvg-id="524:telerama.fr" tvg-name="Alsace 20" tvg-logo="Alsace_20.png" group-title="Locales",[FR] Alsace 20
 http://ndasat.pro:8000/live/76879463485834/1593574628/3543.ts

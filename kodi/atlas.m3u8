@@ -27,16 +27,16 @@ http://ndasat.pro:8000/live/76879463485834/1593574628/495.ts
 http://ndasat.pro:8000/live/76879463485834/1593574628/496.ts
 
 #EXTINF:-1 tvg-id="129/zdf:klack.de" tvg-name="ZDF" tvg-logo="ZDF.png" group-title="General/DE",[DE] ZDF
-http://ndasat.pro:8000/live/76879463485834/1593574628/534.ts
+http://ndasat.pro:8000/live/76879463485834/1593574628/485.ts
 
 #EXTINF:-1 tvg-id="86/rtl:klack.de" tvg-name="RTL" tvg-logo="RTL.png" group-title="General/DE",[DE] RTL
 http://ndasat.pro:8000/live/76879463485834/1593574628/555.ts
 
+#EXTINF:-1 tvg-id="87/rtl-2:klack.de" tvg-name="RTL 2" tvg-logo="RTL_2.png" group-title="General/DE",[DE] RTL 2
+http://ndasat.pro:8000/live/76879463485834/1593574628/459.ts
+
 #EXTINF:-1 tvg-id="SAT1:m.tvtoday.de" tvg-name="SAT1" tvg-logo="SAT1.png" group-title="General/DE",[DE] SAT1
 http://ndasat.pro:8000/live/76879463485834/1593574628/554.ts
-
-#EXTINF:-1 tvg-id="79/pro7:klack.de" tvg-name="ProSieben" tvg-logo="ProSieben.png" group-title="General/DE",[DE] ProSieben
-http://ndasat.pro:8000/live/76879463485834/1593574628/559.ts
 
 #EXTINF:-1 tvg-id="51/kabel-eins:klack.de" tvg-name="kabel eins" tvg-logo="kabel_eins.png" group-title="General/DE",[DE] kabel eins
 http://ndasat.pro:8000/live/76879463485834/1593574628/564.ts
@@ -49,9 +49,6 @@ http://ndasat.pro:8000/live/76879463485834/1593574628/569.ts
 
 #EXTINF:-1 tvg-id="DMAX:m.tvtoday.de" tvg-name="Dmax" tvg-logo="Dmax.png" group-title="General/DE",[DE] Dmax
 http://ndasat.pro:8000/live/76879463485834/1593574628/567.ts
-
-#EXTINF:-1 tvg-id="N3:m.tvtoday.de" tvg-name="NDR" tvg-logo="NDR.png" group-title="General/DE",[DE] NDR
-http://ndasat.pro:8000/live/76879463485834/1593574628/560.ts
 
 #EXTINF:-1 tvg-id="SUPER:tvtoday.de" tvg-name="Super RTL" tvg-logo="Super_RTL.png" group-title="General/DE",[DE] Super RTL
 http://ndasat.pro:8000/live/76879463485834/1593574628/536.ts
@@ -263,6 +260,9 @@ http://ndasat.pro:8000/live/76879463485834/1593574628/2286.ts
 #EXTINF:-1 tvg-id="auf_sender-SFI-SF+Info:tele.ch" tvg-name="SRF Info" tvg-logo="SRF_Info.png" group-title="News",[CH] SRF Info
 http://ndasat.pro:8000/live/76879463485834/1593574628/2288.ts
 
+#EXTINF:-1 tvg-id="60/n24:klack.de" tvg-name="N24" tvg-logo="N24.png" group-title="News",[DE] N24
+http://ndasat.pro:8000/live/76879463485834/1593574628/450.ts
+
 #EXTINF:-1 tvg-id="93:filmon.com" tvg-name="Russia Today" tvg-logo="Russia_Today.png" group-title="News",[UK] Russia Today
 http://rt-uk-live.hls.adaptive.level3.net/rt/uk/index2500.m3u8
 
@@ -359,8 +359,8 @@ http://ndasat.pro:8000/live/76879463485834/1593574628/556.ts
 #EXTINF:-1 tvg-id="75/syfy:klack.de" tvg-name="SyFy DE" tvg-logo="SyFy_DE.png" group-title="Cinéma/Séries",[DE] SyFy DE
 http://ndasat.pro:8000/live/76879463485834/1593574628/535.ts
 
-#EXTINF:-1 tvg-id="SKYAT:m.tvtoday.de" tvg-name="SKY DE Atlantic" tvg-logo="SKY_DE_Atlantic.png" group-title="Cinéma/Séries",[DE] SKY DE Atlantic
-http://ndasat.pro:8000/live/76879463485834/1593574628/543.ts
+#EXTINF:-1 tvg-id="SKYAT:m.tvtoday.de" tvg-name="SKY DE Movie" tvg-logo="SKY_DE_Movie.png" group-title="Cinéma/Séries",[DE] SKY DE Movie
+http://ndasat.pro:8000/live/76879463485834/1593574628/541.ts
 
 #EXTINF:-1 tvg-id="SKY-A:m.tvtoday.de" tvg-name="SKY DE Action" tvg-logo="SKY_DE_Action.png" group-title="Cinéma/Séries",[DE] SKY DE Action
 http://ndasat.pro:8000/live/76879463485834/1593574628/551.ts
@@ -370,6 +370,9 @@ http://ndasat.pro:8000/live/76879463485834/1593574628/546.ts
 
 #EXTINF:-1 tvg-id="SKY-E:m.tvtoday.de" tvg-name="SKY DE Emotion" tvg-logo="SKY_DE_Emotion.png" group-title="Cinéma/Séries",[DE] SKY DE Emotion
 http://ndasat.pro:8000/live/76879463485834/1593574628/545.ts
+
+#EXTINF:-1 tvg-id="SKY-C:m.tvtoday.de" tvg-name="SKY DE Comedy" tvg-logo="SKY_DE_Comedy.png" group-title="Cinéma/Séries",[DE] SKY DE Comedy
+http://ndasat.pro:8000/live/76879463485834/1593574628/466.ts
 
 #EXTINF:-1 tvg-id="2303:uk-sky.com" tvg-name="Alibi" tvg-logo="Alibi.png" group-title="Cinéma/Séries",[UK] Alibi
 http://ndasat.pro:8000/live/76879463485834/1593574628/519.ts

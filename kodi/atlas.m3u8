@@ -41,7 +41,7 @@ http://ndasat.pro:8000/live/76879463485834/1593574628/554.ts
 #EXTINF:-1 tvg-id="51/kabel-eins:klack.de" tvg-name="kabel eins" tvg-logo="kabel_eins.png" group-title="General/DE",[DE] kabel eins
 http://ndasat.pro:8000/live/76879463485834/1593574628/564.ts
 
-#EXTINF:-1 tvg-id="VOX:m.tvtoday.de" tvg-name="VOX" tvg-logo="VOX.png" group-title="General/DE",[DE] VOX
+#EXTINF:-1 tvg-id="126/vox:klack.de" tvg-name="VOX" tvg-logo="VOX.png" group-title="General/DE",[DE] VOX
 http://ndasat.pro:8000/live/76879463485834/1593574628/483.ts
 
 #EXTINF:-1 tvg-id="3SAT:m.tvtoday.de" tvg-name="3sat" tvg-logo="3sat.png" group-title="General/DE",[DE] 3sat

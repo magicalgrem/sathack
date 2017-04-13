@@ -368,9 +368,6 @@ http://ndasat.pro:8000/live/76879463485834/1593574628/546.ts
 #EXTINF:-1 tvg-id="SKY-E:m.tvtoday.de" tvg-name="SKY DE Emotion" tvg-logo="SKY_DE_Emotion.png" group-title="Cinéma/Séries",[DE] SKY DE Emotion
 http://ndasat.pro:8000/live/76879463485834/1593574628/545.ts
 
-#EXTINF:-1 tvg-id="SKY-C:m.tvtoday.de" tvg-name="SKY DE Comedy" tvg-logo="SKY_DE_Comedy.png" group-title="Cinéma/Séries",[DE] SKY DE Comedy
-http://ndasat.pro:8000/live/76879463485834/1593574628/466.ts
-
 #EXTINF:-1 tvg-id="2303:uk-sky.com" tvg-name="Alibi" tvg-logo="Alibi.png" group-title="Cinéma/Séries",[UK] Alibi
 http://ndasat.pro:8000/live/76879463485834/1593574628/519.ts
 

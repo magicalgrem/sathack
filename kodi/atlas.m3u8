@@ -27,7 +27,7 @@ http://ndasat.pro:8000/live/76879463485834/1593574628/495.ts
 http://ndasat.pro:8000/live/76879463485834/1593574628/496.ts
 
 #EXTINF:-1 tvg-id="129/zdf:klack.de" tvg-name="ZDF" tvg-logo="ZDF.png" group-title="General/DE",[DE] ZDF
-http://ndasat.pro:8000/live/76879463485834/1593574628/485.ts
+http://ndasat.pro:8000/live/76879463485834/1593574628/534.ts
 
 #EXTINF:-1 tvg-id="86/rtl:klack.de" tvg-name="RTL" tvg-logo="RTL.png" group-title="General/DE",[DE] RTL
 http://ndasat.pro:8000/live/76879463485834/1593574628/555.ts
@@ -277,6 +277,9 @@ http://live.bltvios.com.edgesuite.net/btvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="30:canalsat.fr" tvg-name="CNN" tvg-logo="CNN.png" group-title="News",[US] CNN
 rtmp://iptv.livetv.tn/live/ch5059%3Fcode%3D262dc2de03cc75f
+
+#EXTINF:-1 tvg-id="ZINFO:m.tvtoday.de" tvg-name="ZDF Info" tvg-logo="ZDF_Info.png" group-title="News",[DE] ZDF Info
+http://ndasat.pro:8000/live/76879463485834/1593574628/485.ts
 
 #EXTINF:-1 tvg-id="289:telerama.fr" tvg-name="Cine POLAR" tvg-logo="Cine_POLAR.png" group-title="Cinéma/Séries",[FR] Ciné POLAR
 http://ndasat.pro:8000/live/76879463485834/1593574628/160.ts
@@ -612,7 +615,7 @@ http://ndasat.pro:8000/live/76879463485834/1593574628/3471.ts
 http://ndasat.pro:8000/live/76879463485834/1593574628/1728.ts
 
 #EXTINF:-1 tvg-id="1290:telerama.fr" tvg-name="beIN Sport 1 HD" tvg-logo="beIN_Sport_1_HD.png" group-title="Sport",[FR] beIN Sport 1 HD
-http://ndasat.pro:8000/live/76879463485834/1593574628/589.ts
+http://ndasat.pro:8000/live/76879463485834/1593574628/3969.ts
 
 #EXTINF:-1 tvg-id="1304:telerama.fr" tvg-name="beIN Sport 2 HD" tvg-logo="beIN_Sport_2_HD.png" group-title="Sport",[FR] beIN Sport 2 HD
 http://ndasat.pro:8000/live/76879463485834/1593574628/590.ts
